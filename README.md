@@ -9,3 +9,5 @@ In this blog, you will learn how to create a complete e-commerce website with HT
 If you haven't created any website before with HTML and CSS before don't panic because am going to guide you step by step so that you also get the same result as mine. Real quick, you can also convert this ecommerce website template to a dynamic ecommerce website using React, NodeJs and MongoDB. You can check out this video for an intro.
 
 linke => https://naellweb.github.io/E-commerce_One/
+
+Product page => https://naellweb.github.io/E-commerce_One/productDetails.html
